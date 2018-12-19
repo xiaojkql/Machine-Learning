@@ -61,3 +61,5 @@ Derived Distance
 Hierarchical Regression
 
 Morphable Models for Video
+
+Chapter 2 [Stats 202: Data Mining and Analysis](http://web.stanford.edu/class/stats202/content/lectures.html)

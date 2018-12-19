@@ -7,3 +7,7 @@ scikit-learn
 统计学习方法
 
 PRML
+
+[course 1](http://statweb.stanford.edu/~jtaylo/courses/stats202/index.html)
+
+[Stats 202: Data Mining and Analysis In Standford](http://web.stanford.edu/class/stats202/)
