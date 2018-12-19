@@ -1,0 +1,1 @@
+[Spline](https://en.wikipedia.org/wiki/Spline_(mathematics))
