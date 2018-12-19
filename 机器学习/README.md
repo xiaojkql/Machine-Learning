@@ -1,0 +1,1 @@
+## Linear discriminant analysis  [wiki](https://en.wikipedia.org/wiki/Linear_discriminant_analysis)
