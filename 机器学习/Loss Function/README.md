@@ -1,0 +1,1 @@
+## Hinge Loss [wiki](https://en.wikipedia.org/wiki/Hinge_loss)
